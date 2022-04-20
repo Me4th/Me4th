@@ -14,4 +14,4 @@ I ❤️ working with Vue.js
 
 ## My Tech Stack
 
-<img src="https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg" height="40" /><img src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg" height="40" /><img src="https://symbols.getvecta.com/stencil_25/87_vuejs.a929f023a4.svg" height="40" />
+<img style="margin: 10px;" src="https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg" height="40" /><img style="margin: 10px;" src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg" height="40" /><img style="margin: 10px;" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg" height="40" /><img style="margin: 10px;" src="https://symbols.getvecta.com/stencil_25/87_vuejs.a929f023a4.svg" height="40" />
