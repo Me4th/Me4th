@@ -8,4 +8,10 @@ My name is Michael Amting and I am a web developer from Bonn in Germany 🇩🇪
 
 My focus is frontend development with a lot of javascript and of course HTML5 / SCSS. But I also have basic knowledge in PHP and development with Node.js. In my free time I dance Tango Argentino for balance. I have a son (Mika) who is 5 years old and who keeps me busy after a week at work.
 
+<hr />
+
 I ❤️ working with Vue.js
+
+## My Tech Stack
+
+<img src="https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg" height="40" /><img src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" height="40" /><img src="https://symbols.getvecta.com/stencil_25/87_vuejs.a929f023a4.svg" height="40" />
