@@ -14,5 +14,11 @@ I ❤️ working with Vue.js
 
 ## My Tech Stack
 
-<img style="margin-right: 10px; display: block; float: left;" src="https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg" height="40" /><img style="margin-right: 10px; display: block; float: left;" src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg" height="40" /><img style="margin-right: 10px;" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg" height="40" /><img style="margin-right: 10px; display: block; float: left;" src="https://symbols.getvecta.com/stencil_25/87_vuejs.a929f023a4.svg" height="40" /><img style="margin-right: 10px; display: block; float: left;" src="https://symbols.getvecta.com/stencil_89/73_npm.639266ac20.svg" height="40" /><img style="margin-right: 10px; display: block; float: left;" src="https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg" height="40" /><img style="margin-right: 10px; display: block; float: left;" src="https://symbols.getvecta.com/stencil_88/103_mongodb.d91e0a5f7c.svg" height="40" />
+![image](https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg){: style="float: left; margin-right: 10px;"}
+![image](https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg){: style="float: left; margin-right: 10px;"}
+![image](https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg){: style="float: left; margin-right: 10px;"}
+![image](https://symbols.getvecta.com/stencil_25/87_vuejs.a929f023a4.svg){: style="float: left; margin-right: 10px;"}
+![image](https://symbols.getvecta.com/stencil_89/73_npm.639266ac20.svg){: style="float: left; margin-right: 10px;"}
+![image](https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg){: style="float: left; margin-right: 10px;"}
+![image](https://symbols.getvecta.com/stencil_88/103_mongodb.d91e0a5f7c.svg){: style="float: left; margin-right: 10px;"}
 
