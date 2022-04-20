@@ -11,14 +11,3 @@ My focus is frontend development with a lot of javascript and of course HTML5 / 
 <hr />
 
 I ❤️ working with Vue.js
-
-## My Tech Stack
-
-![image](https://symbols.getvecta.com/stencil_83/68_html5-icon.09e3da538e.svg){: style="float: left; margin-right: 10px;"}
-![image](https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg){: style="float: left; margin-right: 10px;"}
-![image](https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg){: style="float: left; margin-right: 10px;"}
-![image](https://symbols.getvecta.com/stencil_25/87_vuejs.a929f023a4.svg){: style="float: left; margin-right: 10px;"}
-![image](https://symbols.getvecta.com/stencil_89/73_npm.639266ac20.svg){: style="float: left; margin-right: 10px;"}
-![image](https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg){: style="float: left; margin-right: 10px;"}
-![image](https://symbols.getvecta.com/stencil_88/103_mongodb.d91e0a5f7c.svg){: style="float: left; margin-right: 10px;"}
-
