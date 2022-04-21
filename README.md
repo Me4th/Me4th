@@ -6,6 +6,13 @@ My name is Michael Amting and I am a web developer from Bonn in Germany 🇩🇪
 
 <hr />
 
+## Get in touch
+
+For inquiries I can be reached at +49 0179 48 27 028. 
+Or simply by e-mail at <a href="mailto:michaelamting@outlook.de">michaelamting@outlook.de</a>
+
+<hr />
+
 My focus is frontend development with a lot of javascript and of course HTML5 / SCSS. But I also have basic knowledge in PHP and development with Node.js. In my free time I dance Tango Argentino for balance. I have a son (Mika) who is 5 years old and who keeps me busy after a week at work.
 
 <hr />
