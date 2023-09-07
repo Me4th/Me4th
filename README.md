@@ -1,22 +1,32 @@
-# Hi, i am Michael 🤟
+# Hello, World! I'm Michael Amting 🌟
 
-My name is Michael Amting and I am a web developer from Bonn in Germany 🇩🇪 I am employed at Pressmind GmbH in Schmallenberg. If you are a tour operator, definitely <a href="https://github.com/pressmind/wp-travelshop-theme">check out the travelshop theme</a>.
+I'm a proficient Web Developer based in the picturesque city of Bonn, Germany 🇩🇪. Currently, I am honing my skills at Pressmind GmbH in Schmallenberg, working my magic on frontend development, fueled with extensive knowledge in JavaScript, especially with Vue.js, and crafting aesthetic layouts with HTML5 & SCSS. My interests also extend to backend engineering, dabbling with Node.js, PHP, and database management systems like SQL, Redis, and MongoDB. My expertise doesn't stop here; I am also adept at developing with WordPress, creating robust and dynamic websites. 
 
-<a href="https://github.com/pressmind" target="_blank"><img src="https://www.pressmind.de/files/pm_logo.svg" alt="Pressmind" width="100"/></a>
+Connect with me and let's create something spectacular!
 
-<hr />
+## 🛠️ Technologies & Tools
 
-## A little about me
+### **Frontend**
+- **JavaScript (Vue.js)**: ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- **HTML5**: ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- **SCSS**: ![SCSS Badge](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-My focus is frontend development with a lot of javascript and of course HTML5 / SCSS. But I also have basic knowledge in PHP and development with Node.js. In my free time I dance Tango Argentino for balance. I have a son (Mika) who is 5 years old and who keeps me busy after a week at work.
+### **Backend**
+- **Node.js**: ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- **PHP**: ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- **Database Management**: ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<hr />
+### **CMS**
+- **WordPress**: ![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-## Get in touch
+## 💼 Where I am currently working at
+- **Pressmind GmbH**, Schmallenberg
 
-For inquiries I can be reached at +49 0179 48 27 028. 
-Or simply by e-mail at <a href="mailto:michaelamting@outlook.de">michaelamting@outlook.de</a>
+## 🌐 Connect with me
+- **Twitter**: [![Twitter Badge](https://img.shields.io/badge/-michaelamting-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/michaelamting)](https://twitter.com/michaelamting)
+- **Facebook**: [![Facebook Badge](https://img.shields.io/badge/-Michael%20Amting-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/michael.amting.9/)](https://www.facebook.com/michael.amting.9/)
+- **E-Mail**: [michaelamting@outlook.de](mailto:michaelamting@outlook.de)
 
-<hr />
+---
 
-I ❤️ working with Vue.js
+> 🌟 From [MichaelAmting](https://github.com/Me4th)
