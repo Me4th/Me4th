@@ -1,8 +1,6 @@
-# Hello, World! I'm Michael Amting 🌟
+# Michael Amting
 
-I'm a proficient Web Developer based in the picturesque city of Bonn, Germany 🇩🇪. Currently, I am honing my skills at Pressmind GmbH in Schmallenberg, working my magic on frontend development, fueled with extensive knowledge in JavaScript, especially with Vue.js, and crafting aesthetic layouts with HTML5 & SCSS. My interests also extend to backend engineering, dabbling with Node.js, PHP, and database management systems like SQL, Redis, and MongoDB. My expertise doesn't stop here; I am also adept at developing with WordPress, creating robust and dynamic websites. 
-
-Connect with me and let's create something spectacular!
+I'm a proficient Web Developer based near Cologne, Germany, Europe 🇪🇺
 
 ## 🛠️ Technologies & Tools
 
@@ -23,8 +21,6 @@ Connect with me and let's create something spectacular!
 - **Pressmind GmbH**, Schmallenberg
 
 ## 🌐 Connect with me
-- **Twitter**: [![Twitter Badge](https://img.shields.io/badge/-michaelamting-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/michaelamting)](https://twitter.com/michaelamting)
-- **Facebook**: [![Facebook Badge](https://img.shields.io/badge/-Michael%20Amting-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/michael.amting.9/)](https://www.facebook.com/michael.amting.9/)
 - **E-Mail**: [michaelamting@outlook.de](mailto:michaelamting@outlook.de)
 
 ---
