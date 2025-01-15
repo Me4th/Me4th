@@ -1,4 +1,4 @@
-# Michael Amting
+<img src="https://me4th.de/assets/img/amting_logo_dark.svg" alt="Michael Amting - Software Development" width="150"/>
 
 I'm a proficient Web Developer based near Cologne, Germany, Europe 🇪🇺
 
